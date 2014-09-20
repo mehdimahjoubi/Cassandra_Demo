@@ -17,4 +17,5 @@ along with a configured web container for the web service.
 You will also need to run the cql commands contained in gaming_network.CQL on your Cassandra database.
       
 No client implementation comes with this project,
-but most requests being HTTPGET based, you should be able to observe the JSON response using a simple web browser.
+but most requests being HTTPGET based, you should be able to simulate requests and observe the JSON responses,
+using a simple web browser.
